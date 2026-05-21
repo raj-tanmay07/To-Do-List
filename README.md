@@ -20,15 +20,7 @@ A simple and responsive To-Do List web application built using HTML, CSS, and Ja
 
 ---
 
-## 📂 Project Structure
-
-```bash
-ToDo-List/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
 
 ## 👨‍💻 Author
 
-Tanmay Raj
+- Tanmay Raj
