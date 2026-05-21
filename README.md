@@ -1,29 +1,22 @@
-# To-Do List Web App
+# 📝 To-Do List Web App
 
-This is a simple and interactive To-Do List web application built using HTML, CSS, and JavaScript as part of my internship with CodeAlpha.
+A simple and responsive To-Do List application built using **HTML**, **CSS**, and **JavaScript**.  
+This project helps users organize daily tasks efficiently with a clean and user-friendly interface.
 
-🚀 Features
+---
 
-Add new tasks
+## 🚀 Features
 
-Delete tasks using a delete button
+- ➕ Add new tasks
+- ✔️ Mark tasks as completed
+- ❌ Delete tasks
+- 📱 Responsive design
+- 🎨 Simple and clean UI
 
-Mark tasks as completed (double click)
+---
 
-Simple and user-friendly interface
+## 🛠️ Technologies Used
 
-🛠 Technologies Used
-
-HTML
-
-CSS
-
-JavaScript
-
-💡 Key Concepts
-
-DOM Manipulation
-
-Event Handling
-
-CRUD Operations
+- HTML5
+- CSS3
+- JavaScript
