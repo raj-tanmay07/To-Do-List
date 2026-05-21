@@ -20,3 +20,20 @@ This project helps users organize daily tasks efficiently with a clean and user-
 - HTML5
 - CSS3
 - JavaScript
+
+## 💡 How It Works
+- Users can enter tasks using the input field
+- Click the Add button to add tasks
+- Click on a task to mark it as completed
+- Click the Delete button to remove tasks
+
+## 🔮 Future Improvements
+- Save tasks in Local Storage
+- Add Dark Mode
+- Add Task Deadlines
+- Add Task Categories
+- Add Drag & Drop Feature
+
+## 👨‍💻 Author
+
+- Tanmay Raj
