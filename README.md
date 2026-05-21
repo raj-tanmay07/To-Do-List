@@ -31,4 +31,4 @@ ToDo-List/
 
 ## 👨‍💻 Author
 
-- Tanmay Raj
+Tanmay Raj
